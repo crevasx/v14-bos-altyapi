@@ -1,0 +1,14 @@
+{
+  "name": "v14-bos",
+  "version": "1.0.0",
+  "main": "app.js",
+  "scripts": {
+    "test": "node app.js"
+  },
+  "author": "Rawlex",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "discord.js": "^14.13.0"
+  }
+}
